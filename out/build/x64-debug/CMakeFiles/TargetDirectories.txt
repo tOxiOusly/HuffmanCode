@@ -1,0 +1,5 @@
+C:/Users/oroyy/Documents/Prog/vs/HuffmanCoding/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/oroyy/Documents/Prog/vs/HuffmanCoding/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/oroyy/Documents/Prog/vs/HuffmanCoding/out/build/x64-debug/HuffmanCoding/CMakeFiles/HuffmanCoding.dir
+C:/Users/oroyy/Documents/Prog/vs/HuffmanCoding/out/build/x64-debug/HuffmanCoding/CMakeFiles/edit_cache.dir
+C:/Users/oroyy/Documents/Prog/vs/HuffmanCoding/out/build/x64-debug/HuffmanCoding/CMakeFiles/rebuild_cache.dir
